@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tourism</string>
+    <string name="am_lake">AM Lake</string>
+    <string name="india">India</string>
+    <string name="from_200">From $200</string>
+    <string name="next_destination">Next Destination</string>
+    <string name="find_your">Find Your</string>
+    <string name="todo">TODO</string>
+    <string name="search_destinations">Search Destinations</string>
+    <string name="recent">Recent</string>
+    <string name="see_all">See All</string>
+
+    <string-array name="places">
+        <item>Hunza Valley</item>
+        <item>Passu Cones</item>
+        <item>Swat Valley</item>
+        <item>Attabobad Lake</item>
+    </string-array>
+</resources>

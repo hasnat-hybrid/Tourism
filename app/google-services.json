@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "573447304429",
+    "project_id": "tourism-e179a",
+    "storage_bucket": "tourism-e179a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573447304429:android:1d8abf5a7d8bde7c6748e4",
+        "android_client_info": {
+          "package_name": "org.hasnat.tourism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573447304429-lm2cd4fejuao3h9n9i8sp8i1udemntmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo9hFxCKjycyUQK0kQ5LiKK-3-k-eCotI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573447304429-lm2cd4fejuao3h9n9i8sp8i1udemntmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
